@@ -61,6 +61,10 @@ Algorithms:
 7.	Spark y shaped structures
 
 Hardware:
+
 Intel(R) Core(TM) i7-9850H CPU 2.60GHz   2.59 GHz, RAM 64 GB, NVIDIA Quadro RTX 3000 6GB
+
+
 Running time:
+
 Running time for the small data sets provided here was less than 7.5s for each algorithm.
