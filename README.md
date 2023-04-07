@@ -2,6 +2,7 @@
 This is the first of two repositories that contains data and code for the paper “Prediction of fast subcellular Ca2+ signals based on subcellular structures in label-free second harmonic generation microscopy measurements”
 
 Data set:
+
 The raw data set consists of image pairs of second harmonic generation (SHG) and two photon microscopy measurements 
 Georgiev, T., Zapiec, B., Forderer, M., Fink, R. H. A. & Vogel, M. Colocalization properties of elementary Ca(2+) release signals with structures specific to the contractile filaments and the tubular system of intact mouse skeletal muscle fibers. J Struct Biol 192, 366-375 (2015). https://doi.org:10.1016/j.jsb.2015.09.018
 I provide here small data sets. The algorithms can be tested on these data sets.
@@ -45,6 +46,7 @@ Such files are provided for the other two experiments. For the training data set
 
 
 Software:
+
 The following software was used in the paper: Python, Jupyter, Spyder, Tensorflow, Tensorflow_io, Keras, Scikit learn, Scikit image, Numpy, Matplotlib, Scipy, Tifffile, Os, Pathlib, Time, Datetime, IPython, Xlsxwriter, ImageJ, Fiji, ChimeraX, https://www.tensorflow.org/tutorials/generative/pix2pix and https://github.com/embl-bio-it/image-analysis-with-python/blob/master/session-3to5/image_analysis_tutorial_solutions.ipynb.
 Pearson correlation coefficients were calculated with Scipy, Matthews correlation coefficients were calculated with Scikit learn, structural similarity index (SSIM) and mean squared error (SME) were calculated with Scikit image. The algorithms for the calculation of Pearson correlation coefficients, Matthews correlation coefficients, structural similarity index (SSIM) and mean squared error (SME) will be provided upon request.
 The following software version were used in this repository:
@@ -52,6 +54,7 @@ Python (version: 3.7.4), IPython (version: 7.8.0), Spyder (version: 3.3.6), Nump
 
 
 Algorithms:
+
 1.	Image pre-processing
 2.	Properties of generated fibers
 3.	Properties of generated Ca2+ sparks
