@@ -3,8 +3,10 @@ This is the first of two repositories that contains data and code for the paper 
 
 Data set:
 
-The raw data set consists of image pairs of second harmonic generation (SHG) and two photon microscopy measurements 
+The raw data set consists of image pairs of second harmonic generation (SHG) and two photon microscopy measurements. They were part of the following publication:
+
 Georgiev, T., Zapiec, B., Forderer, M., Fink, R. H. A. & Vogel, M. Colocalization properties of elementary Ca(2+) release signals with structures specific to the contractile filaments and the tubular system of intact mouse skeletal muscle fibers. J Struct Biol 192, 366-375 (2015). https://doi.org:10.1016/j.jsb.2015.09.018
+
 I provide here small data sets. The algorithms can be tested on these data sets.
 
 The following files are included in this data set:
