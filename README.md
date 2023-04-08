@@ -30,7 +30,7 @@ Exp_1_GT_masked.tif: Fiber mask of the Ca2+ signal corresponding to Exp_1_GT.tif
 
 Exp_1_P.tif: 10 images of predicted Ca2+ sparks.
 
-Exp_1_P_bn_sparks.tif: 10 binary images of ground truth Ca2+ sparks corresponding to Exp_1_P.tif.
+Exp_1_P_bn_sparks.tif: 10 binary images of predicted Ca2+ sparks corresponding to Exp_1_P.tif.
 
 Exp_1_P_edges.tif: 10 binary images of Ca2+ sparks edges corresponding to Exp_1_P.tif.
 
@@ -57,13 +57,13 @@ Python (version: 3.7.4), IPython (version: 7.8.0), Spyder (version: 3.3.6), Nump
 
 Algorithms:
 
-1.	Image pre-processing
-2.	Properties of generated fibers
-3.	Properties of generated Ca2+ sparks
-4.	Spark area spark edge
-5.	Sparks fiber periphery
-6.	Sparks myosin filaments
-7.	Spark y shaped structures
+1.	Image pre-processing (image_pre_processing.py)
+2.	Properties of generated fibers (properties_of_generated_fibers.py)
+3.	Properties of generated Ca2+ sparks (properties_of_generated_ca_sparks.py)
+4.	Spark area spark edge (spark_area_spark_edge.py)
+5.	Sparks fiber periphery (sparks_fiber_periphery.py)
+6.	Sparks myosin filaments (sparks_myosin_filaments.py)
+7.	Spark y shaped structures (sparks_y_shaped_structures.py)
 
 Hardware:
 
@@ -72,4 +72,4 @@ Intel(R) Core(TM) i7-9850H CPU 2.60GHz   2.59 GHz, RAM 64 GB, NVIDIA Quadro RTX 
 
 Running time:
 
-Running time for the small data sets provided here was less than 7.5s for each algorithm.
+Running time for the small data sets provided here was less than 7.5 s for each algorithm.
