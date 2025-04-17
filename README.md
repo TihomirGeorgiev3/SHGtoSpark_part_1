@@ -65,6 +65,7 @@ Algorithms:
 5.	Sparks fiber periphery (sparks_fiber_periphery.py)
 6.	Sparks myosin filaments (sparks_myosin_filaments.py)
 7.	Spark y shaped structures (sparks_y_shaped_structures.py)
+8.  Correlation of Ca2+ and SHG signal at Ca2+ sparks (ca_signal_shg_signal.py)
 
 Hardware:
 
