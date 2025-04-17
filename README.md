@@ -46,6 +46,7 @@ Exp_1_SHG_y_shaped_structures.tif: Binary images of y-shaped structures.
 
 Such files are provided for the other two experiments. For the training data set there are no predictions of Ca2+ signals.
 
+For Exp_1_nf no band pass filter was in front of the SHG signal detector during the measurement.
 
 Software:
 
